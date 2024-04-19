@@ -3,7 +3,8 @@ package directorioTrabajo_Gonzalez_Bruno;
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Crear un objeto de la clase Clase
+        Clase objetoClase = new Clase();
 
 	}
 
